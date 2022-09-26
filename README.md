@@ -17,5 +17,5 @@
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=gingrrbabez)](https://github.com/gingrrbabez/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gingrrbabez)](https://github.com/gingrrbabez/github-readme-stats)
 
-# Trophies
+# 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gingrrbabez&theme=discord&no-frame=false&no-bg=true&margin-w=4)
