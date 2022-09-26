@@ -6,4 +6,4 @@
 - 😄 Pronouns: they/any
 
 # Socials
-[!Twitch](https://img.shields.io/twitch/status/deputy_gingey?style=social)
+[![Twitch](https://img.shields.io/twitch/status/deputy_gingey?style=social)
