@@ -18,4 +18,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gingrrbabez)](https://github.com/gingrrbabez/github-readme-stats)
 
 # Trophies
-[![Trophies] https://github-profile-trophy.vercel.app/?gingrrbabez=ryo-ma&theme=algolia
+[![] https://github-profile-trophy.vercel.app/?gingrrbabez=ryo-ma&theme=algolia
