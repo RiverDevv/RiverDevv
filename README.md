@@ -18,3 +18,6 @@
 
 # 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gingrrbabez&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+# 📞 Contact Me
+![](https://discord.c99.nl/widget/theme-1/Gingey#6153.png)
