@@ -21,3 +21,9 @@
 
 # 📞 Contact Me
 <img src="https://discord.c99.nl/widget/theme-1/Gingey#6153.png"/>
+<a href='https://www.youtube.com/c/TFA7524' target="_blank">
+    <img alt='YouTube' src='https://img.shields.io/badge/YouTube-100000?style=social&logo=YouTube&logoColor=FF0000&labelColor=000000&color=EAE9E9'/>
+</a>
+<a href='https://dsc.gg/codingdevelopment' target="_blank">
+    <img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=social&logo=Discord&logoColor=5865F2&labelColor=000000&color=EAE9E9'/>
+</a>
