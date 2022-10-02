@@ -21,3 +21,4 @@
 
 # 📞 Contact Me
 <img src="https://discord.c99.nl/widget/theme-1/Gingey#6153.png"/>
+<img src="https://discord.c99.nl/widget/theme-2/753180650202202154.png" alt="Discord"/>
