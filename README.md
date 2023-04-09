@@ -5,7 +5,7 @@
 <h3 align="center"><i>A Multi-Talented Full-Stack Web Developer & Designer from the United States</i></h3>
 
 - 🔭 I’m currently working on my own Discord bots!
-- 🌱 I’m currently learning discord.py
+- 🌱 I’m currently learning Go
 - 😄 Pronouns: He/Him
 
 ![Twitch](https://img.shields.io/twitch/status/deputy_gingey?style=social) ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdeputy_gingey) ![Reddit](https://img.shields.io/reddit/user-karma/combined/gingrrbabez?style=social)
