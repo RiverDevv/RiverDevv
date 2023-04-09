@@ -19,8 +19,6 @@
 <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=RiverDevvX&theme=tokyonight&show_icons=true&hide=%22issues%22" alt="GitHub Stats" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RiverDevv&theme=highcontrast&hide_border=true" alt="RiverDevv" />
 </p>
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=RiverDevv)](https://github.com/RiverDevv/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiverDevv)](https://github.com/RiverDevv/github-readme-stats)
 
  <h3 align="center">🏆 Trophies </h3>
  <p align="center">
