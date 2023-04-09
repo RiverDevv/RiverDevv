@@ -16,7 +16,7 @@
 <h3 align="center">📊 Github Stats </h3>
  <p align="center">
 <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiverDevv&theme=tokyonight&layout=compact" alt="Most Languages Used" />
-<img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=RiverDevvX&theme=tokyonight&show_icons=true&hide=%22issues%22" alt="GitHub Stats" />
+<img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=RiverDevv&theme=tokyonight&show_icons=true&hide=%22issues%22" alt="GitHub Stats" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RiverDevv&theme=highcontrast&hide_border=true" alt="RiverDevv" />
 </p>
 
@@ -30,7 +30,7 @@
 <a align="center" href="https://dev.to/riverdev" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="Dev.to" width="50" height="50"/></a>
 </p>
 
-<h3 align="center">📈 Visitor's Count:</h3>
+<h3 align="center">📈 Visitor's Count</h3>
  <p align="center"> 
  <img src="https://profile-counter.glitch.me/{RiverDevv}/count.svg" alt="RiverDevv" />
 </p>
