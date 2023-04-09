@@ -2,7 +2,7 @@
 
 
 <h1 align="center"><i>Hi 👋, I'm River </i></h1>
-<h3 align="center"><i>A Multi-Talented Full-Stack Web Developer & Designer from the United States</i></h3>
+<h3 align="center"><i>A Multi-Talented Full-Stack Web Developer & Designer from <b>the United States</b></i> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Transgender_Pride_flag.svg/2560px-Transgender_Pride_flag.svg.png" alt="Trans Flag" height="40" width="50" /></h3>
 
 - 🔭 I’m currently working on my own Discord bots!
 - 🌱 I’m currently learning Go
